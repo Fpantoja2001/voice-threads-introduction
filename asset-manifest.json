@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voice-threads-introduction/static/css/main.c51a6c4c.css",
+    "main.js": "/voice-threads-introduction/static/js/main.99a8a178.js",
+    "static/media/image2.JPG": "/voice-threads-introduction/static/media/image2.034b8514336770a63b48.JPG",
+    "static/media/image1.JPG": "/voice-threads-introduction/static/media/image1.ac7dcd0e046f566e2f2d.JPG",
+    "index.html": "/voice-threads-introduction/index.html",
+    "main.c51a6c4c.css.map": "/voice-threads-introduction/static/css/main.c51a6c4c.css.map",
+    "main.99a8a178.js.map": "/voice-threads-introduction/static/js/main.99a8a178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51a6c4c.css",
+    "static/js/main.99a8a178.js"
+  ]
+}
