@@ -1,0 +1,73 @@
+.wrapperFooter {
+    width: 100%;
+    height: 80px;
+    background-color: #1B263B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .footer {
+        width: 60%;
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        position: relative;
+        
+
+        .left {
+            width: 50%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: left;
+          .icon {
+                display: flex;
+                align-items: center;
+                color: #E0E1DD;
+            } 
+            .iconText{
+                color: #E0E1DD;
+                margin-left:0.5%;
+            } 
+        } 
+
+        .right {
+            width: 50%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            position: absolute;
+            right: 0;
+            justify-content: right;
+
+            .linkedIn{
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                height: 100%;
+                text-decoration: none
+
+            }
+
+            .gitHub {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                height: 100%;
+                text-decoration: none;
+            }
+
+            .logos {
+                color: #E0E1DD;
+                margin-left: 20px;
+            }
+
+            .logoTitles {
+                color: #E0E1DD;
+                margin-left:5px;
+            }
+        }
+    }
+}
